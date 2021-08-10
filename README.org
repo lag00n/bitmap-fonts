@@ -1,0 +1,11 @@
+#+TITLE: bitmap fonts collection
+#+AUTHOR: lxg00n
+
+* My personal collection of cool bitmap fonts, that i like.
+*** All credits goes to the font creators.
+* Installation method
+Just run the installation script.
+#+begin_src sh
+./install # Run it inside the repo folder.
+#+end_src
+**** Font previews are going to be added soon.
