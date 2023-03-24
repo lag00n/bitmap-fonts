@@ -2,7 +2,7 @@
 
 # Check if .fonts exists
 if [ ! -d ~/.fonts ]; then
-		mkdir ~/.fonts
+	mkdir ~/.fonts
 fi
 
 cp -t ~/.fonts *
@@ -13,5 +13,4 @@ mkfontdir ~/.fonts
 mkfontscale ~/.fonts
 xset +fp ~/.fonts
 xset fp rehash
-fc-cache
 fc-cache -fv
